@@ -1,32 +1,12 @@
 .cripto {
-    /* background: rgba(255, 255, 255, 0.04);
+    background: rgba(255, 255, 255, 0.04);
     border: 1px solid rgba(255, 255, 255, 0.08);
     border-radius: 8px;
     padding: 1rem;
-    transition: all .25s; */
-    border: 1px solid skyblue;
-    border-radius: 5px;
-    padding: 1rem;
-    border-left: 10px solid skyblue;
+    transition: all .25s;
   }
   
-  .info {
-    color: rgb(191, 191, 191);
-  }
-
-  .label {
-    color: skyblue;
-  }
-  
-  .positivo {
-    color: greenyellow;
-  }
-
-  .negativo {
-    color: red;
-  }
-
-  /* .cripto:hover {
+  .cripto:hover {
     background: rgba(255, 255, 255, 0.08);
     border: 1px solid rgba(255, 255, 255, 0.4);
     box-shadow: 0px 12px 12px rgba(0, 0, 0, 0.35);
@@ -39,4 +19,4 @@
   .cripto h2, .cripto a {
     color: white;
     text-decoration: none;
-  } */
+  }
